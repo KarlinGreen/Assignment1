@@ -1,4 +1,17 @@
 <% include Dependancies/header.ejs %>
+
+<!-- Creating container for content -->
+<div class="container col-md-offset-4">
     <h1><%= title %></h1>
-    <p>Welcome to my <%= title %>, look around and stay a while.</p>
+
+    <!-- Creating a section with a boottrap well -->
+        <section class="well col-md-4">
+            <p>Welcome to my <%= title %>! This site was created using Node EJS, and Bootstrap.</p>
+            <p><b>Feel free to look around!</b></p>
+        </section>
+    <!-- End section -->
+
+</div>
+<!-- End container -->
+
 <% include Dependancies/footer.ejs %>
