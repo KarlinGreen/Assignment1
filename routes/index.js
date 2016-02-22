@@ -1,3 +1,9 @@
+<!-- Name: index.js -->
+<!-- Author: Karlin Green -->
+<!-- Site Name: Portfolio -->
+<!-- Purpose: Setting the routes to each page, making navigation to and between pages possible. -->
+
+
 var express = require('express');
 var router = express.Router();
 
