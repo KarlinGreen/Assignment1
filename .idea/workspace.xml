@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de7db773-4573-4ded-99f3-bccd06a28106" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/Dependancies/footer.ejs" afterPath="$PROJECT_DIR$/views/Dependancies/footer.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/Dependancies/header.ejs" afterPath="$PROJECT_DIR$/views/Dependancies/header.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/aboutMe.ejs" afterPath="$PROJECT_DIR$/views/aboutMe.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contactMe.ejs" afterPath="$PROJECT_DIR$/views/contactMe.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/myProjects.ejs" afterPath="$PROJECT_DIR$/views/myProjects.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/myServices.ejs" afterPath="$PROJECT_DIR$/views/myServices.ejs" />
-    </list>
+    <list default="true" id="de7db773-4573-4ded-99f3-bccd06a28106" name="Default" comment="" />
     <ignored path="Assignment1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -283,7 +274,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson6" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -358,7 +349,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1374" height="736" extended-state="7" />
+    <frame x="-4" y="-4" width="1374" height="736" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18740849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
